@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+  <!--#include file="navbar.html"-->
+
+  <div class="container">
+
+  <h2>Assignments</h2>
+
+  There will be weekly homework assignments, and they will be due each Wednesday.
+
+  <ul>
+    <li>Assignment 1: Six degrees of wikipedia (coming soon), due 2/15/17.</li>
+    <li>Assignment 2: due 2/22/17.</li>
+    <li>Assignment 3: due 3/1/17.</li>
+    <li>Assignment 4: due 3/8/17.</li>
+    <li>Note: there will be no assignment due on 3/15/17 because of the midterm.</li>
+    <li>Assignment 5: due 3/29/17.</li>
+    <li>Assignment 6: due 4/5/17.</li>
+    <li>Assignment 7: due 4/12/17.</li>
+    <li>Assignment 8: due 4/19/17.</li>
+    <li>Assignment 9: due 4/26/17.</li>
+    <li>Assignment 10: due 5/3/17.</li>
+  </ul>
+
+  <br />
+  <br />
+  <br />
+  <br />
+
+  <!--#include file="footer.html"-->
+
+  </div> <!-- /.container -->
+
+
+
+</body>
+
+</html>

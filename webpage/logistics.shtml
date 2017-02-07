@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+  <!--#include file="navbar.html"-->
+
+  <div class="container">
+
+    <h3 id="time">Time and location</h3>
+    <ul>
+      <li>Monday 10:00am - 10:50am (McDonnell A02)</li>
+      <li>Wednesday 10:00am - 10:50am (McDonnell A02)</li>
+      <li>List of precept times and locations, link coming soon</li>
+    </ul>
+
+    <h3 id="oh">Office hours</h3>
+    <p>Office location and office hours will be posted on Blackboard.</p>
+
+    <h3 id="prereqs">Prerequisites</h3>
+    <p>There are no prerequisites for this course.</p>
+
+    <h3 id="texts">Required text</h3>
+    <p>For the first half of the class, we will be reading the book <a href="http://www.amazon.com/Six-Degrees-Science-Connected-Market/dp/0393325423/">Six Degrees: The Science of a Connected Age</a>.</p>
+
+    <h2 id="access">Open access</h2>
+    <p>I have marked open access materials with a <img src="images/open.png" height="12"> and closed access materials with a <img src="images/closed.png" height="12">.  If you do not have access to a university library, copies of many of the closed access articles can be found through <a href="http://scholar.google.com">Google Scholar</a>.</p>
+
+    <h3 id="collaboration">Collaboration policy</h3>
+    <p>You are encouraged to work together on the assignments, but you must write up your assignment individually.  Obviously, under no circumstances should you copy another students' work.</p>
+
+    <h3 id="precept">Precept philosophy</h3>
+    <p>Precepts were introduced to Princeton University by Woodrow Wilson in 1905. President Wilson's goal was to give students "first-hand command of the leading ideas, principles, and processes of the subjects which they are studying." It is in this spirit that we will structure the precepts for this class.  In other words, precepts will not be a time to repeat what was already said in class.  Rather, precepts will be a special opportunity to learn new material in new way.</p>
+
+    <h3 id="precept_conflicts">Precept conflicts</h3>
+    <p>If you have an unavoidable time conflict during your scheduled precept, you can attend another precept.  However, before doing so you should email your preceptor and the preceptor of the section that you will be attending to let them know.</p>
+
+    <h3 id="piazza">Piazza</h3>
+    <p>In this course we will be using Piazza for online class discussion. You will not be required to post, but the system is designed to get you help quickly and efficiently from classmates, preceptors, and the professor. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. Here is our class page: <a href="https://piazza.com/class/iynwgj2xvhl5tm">https://piazza.com/class/iynwgj2xvhl5tm</a href>.</p>
+    <p>Please note that the instructors will not be on Piazza between 8pm and 10am.</p>
+
+    <h3 id="exam-time">Change of exam time requests</h3>
+      <p>If you have a scheduled event that you believe prevents you from taking an midterm at the regularly scheduled time, then you need to contact me at least two weeks before the date of the midterm to request a change. Your change request should include an explanation of why you cannot take the midterm at the scheduled time. Also, you will need to have the Dean of your college send me an email saying that they are supportive of your request.</p>
+
+       <p>Please note that I do not grant these changes lightly because they introduce concerns about the fairness of the exam process.</p>
+
+       <p>For questions about the timing of the final exam, we will follow <a href="http://registrar.princeton.edu/final-exams/policy/">standard university policy</a>.</p>
+
+    <h3 id="certificates">Certificates</h3>
+       <p>This course counts towards the requirements for the <a href="https://citp.princeton.edu/teaching/certificate/">Certificate in Information Technology and Society</a>.</p>
+
+    <h3 id="late-assignments">Late assignment policy</h3>
+    <p>We must receive your assignment by 10am on Wednesday, and we are developing a late assignment policy.</p>
+
+    <h3 id="regrade">Regrade policy</h3>
+       <p>If you dispute the grade you received for an assignment or exam, you must submit, in writing, a detailed and clearly stated argument for what you believe is incorrect and why. This must be submitted to Professor Salganik no later than the beginning of class one week after the assignment was returned. For example, if the assignment were returned to the class on Wednesday, your re-grade request would have to be submitted before the start of class on the next Wednesday. Requests for a re-grade after this time will not be accepted.</p>
+
+       <p>If you request a re-grade within the appropriate timeframe, a written response will be provided within one week of your request. This re-grade and written response is final. Please note that a request for a re-grade of a specific problem may result in a re-grade of the entire assignment. Therefore, a re-grade request may result in an increase or decrease of your overall score for the assignment.  This policy is modeled after the policy of <a href="http://www.cs.columbia.edu/~rocco/">Rocco Servidio</a>.</p>
+
+
+    <h3 id="grading">Grading scale</h3>
+      <table>
+        <tr>
+          <td>Letter Grade </td> <td>Numeric Grade</td>
+        </tr>
+        <tr>
+          <td>A</td> <td>93 - 100</td>
+        </tr>
+        <tr>
+          <td>A-</td> <td>90 - 92.99</td>
+        </tr>
+        <tr>
+          <td>B+</td> <td>87 - 89.99</td>
+        </tr>
+        <tr>
+          <td>B</td> <td>83 - 86.99</td>
+        </tr>
+        <tr>
+          <td>B-</td> <td>80 - 82.99</td>
+        </tr>
+        <tr>
+          <td>C+</td> <td>77 - 79.99</td>
+        </tr>
+        <tr>
+          <td>C</td> <td>73 - 76.99</td>
+        </tr>
+        <tr>
+          <td>C-</td> <td>70 - 72.99</td>
+        </tr>
+        <tr>
+          <td>D</td> <td>60 - 69.99</td>
+        </tr>
+        <tr>
+          <td>F</td> <td>0 - 59.99</td>
+        </tr>
+      </table>
+
+      <br />
+      <br />
+      <p>I will not deflate grades.  Further, per university procedures, the grade of A+ will only be given in exceptional circumstances.</p>
+
+<br />
+<br />
+      <!--#include file="footer.html"-->
+
+  </div>
+  <!-- /container -->
+
+</html>
