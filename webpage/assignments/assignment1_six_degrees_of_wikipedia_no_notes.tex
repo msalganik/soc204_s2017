@@ -1,0 +1,173 @@
+\documentclass[addpoints]{exam}
+\usepackage[left=1in,right=1in,top=0.5in,bottom=1in,paper=letterpaper]{geometry}
+\usepackage{setspace}
+%\usepackage[round,colon,authoryear]{natbib}
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{bibentry}
+\usepackage{graphicx} 
+\usepackage{subfigure}
+\usepackage{comment}
+\usepackage{amsmath}
+
+
+\begin{document}
+
+\begin{center}
+\fbox{\fbox{\parbox{5.5in}{\centering
+{\Large Six degrees of wikipedia}\\
+Assignment 1\\
+Sociology 204 (Social Networks)\\Matthew J. Salganik\\
+Due: Wednesday, February 15, 2017 at 10am\\
+You should upload your assignment through Blackboard.
+}}}
+\end{center}
+
+
+\section{Short questions}
+
+\begin{questions}
+\question[8] Draw a simple example that highlights the difference between number of intermediaries and number of degrees of separation.
+
+\vspace{1in}
+
+\question[4] List two limitations of the Travers and Milgram experiment.
+
+\vspace{1.5in}
+
+
+
+\question[12] What is a question or issue that you would like to discuss in precept?
+
+\vspace{1in}
+
+\end{questions}
+
+
+\section{Six degrees of wikipedia}
+
+So far we have read about experiments that show the existence of short path lengths between randomly chosen pairs of people.  And, we have read models that suggest that the short paths might exist in many kinds of networks, not just social networks.  For this assignment you will look for those short paths in the links between entries in Wikipedia.  For example, imagine trying to get from the page of Cornell University to the page Princeton University moving only through links on Wikipedia.  That one is pretty easy.  One path is:
+\begin{itemize}
+\item Cornell University $\rightarrow$ Ivy League $\rightarrow$ Princeton University
+\end{itemize}
+
+This path has two links.  Another maybe less obvious path is:
+\begin{itemize}
+\item Cornell University $\rightarrow$ Supreme Court $\rightarrow$ Sonia Sotomayor $\rightarrow$ Princeton University
+\end{itemize}
+This path has three links.  In general, there may be many paths, but always try to find the shortest.  Finding a path between Cornell University and Princeton University is pretty easy.  Sometimes things are harder and you make wrong turns.  For example, trying to go from Lehman Brothers to Great Depression I went:
+\begin{itemize}
+\item Lehman Brothers $\rightarrow$  Investment Bank $\rightarrow$ Lehman Brothers $\rightarrow$ New York City $\rightarrow$ Wall Street $\rightarrow$ Great Depression 
+\end{itemize}
+
+Note that you can go backwards in your search, as above.  This path had 5 links.
+
+Please describe the paths that you find for the following pairs (and keep track of wrong turns).
+
+\begin{questions}
+\question[2] Princeton University $\rightarrow$ Kevin Bacon
+\vspace{1in}
+
+
+\question[2] Kevin Bacon $\rightarrow$ Princeton University 
+\vspace{1in}
+
+\question[2] Princeton University $\rightarrow$ Henry VIII of England
+\vspace{1in}
+
+\question[2] Henry VIII of England $\rightarrow$ Princeton University 
+\vspace{1in}
+
+\question[2] Princeton University $\rightarrow$ Carnegie Hall
+\vspace{1in}
+
+\question[2] Carnegie Hall $\rightarrow$ Princeton University 
+\vspace{1in}
+
+\question[2] Princeton University $\rightarrow$ White House
+\vspace{1in}
+
+\question[2] White House $\rightarrow$ Princeton University 
+\vspace{1in}
+
+\question[2] Princeton University $\rightarrow$ Austrailia
+\vspace{1in}
+
+\question[2] Australia $\rightarrow$ Princeton University 
+\vspace{1in}
+
+\question[2] Princeton University $\rightarrow$ Gretna, Nebraska
+\vspace{1in}
+
+\question[2] Gretna, Nebraska $\rightarrow$ Princeton University 
+\vspace{1in}
+
+\question[1]Go to the website \url{http://beta.degreesofwikipedia.com/} and find the actual shortest paths.\footnote{If you are having trouble getting the website to recognize the entities, try using capital letters.}  Put your data into a format like Table 1 so that another scientist (e.g., your preceptor) can easily review it.
+
+\question[6] How did you do at finding the shortest paths?  Be specific and cite data.
+\vspace{1in}
+
+\question[6] Were you closer to the true shortest paths when you going from Princeton University or when you were going to Princeton University?  Be specific and cite data.
+\vspace{1in}
+
+\question Travers and Milgram (1969) noted that of the 64 chains that reached the target 16 were sent by Mr. Jacobs, a clothing merchant in the town.  
+\begin{parts}
+\part[6] Did you observe funneling in your searches to Princeton University?  Why do you think this happened?
+\vspace{1in}
+
+\part[6] Did you funnel in your searches from Princeton University? Why do you think this happened?
+\end{parts}
+\vspace{1in}
+
+\question[6] Imagine that you were going to advise a friend about how to get to the Princeton University page from a random Wikipedia page.  What algorithm/strategy/approach would you advise them to use? 
+
+\vspace{2in}
+
+\question[6] Imagine that you were going to advise a friend about how to get from the Princeton University page to a random Wikipedia page.  What algorithm/strategy/approach would you advise them to use? 
+
+\vspace{2in}
+
+\question The diameter of a graph is the longest possible shortest path in a graph.  For example, if you calculated the shortest path between all points on Wikipedia, the diameter would be the longest of these shortest paths.  Try to find two pages that have a very long shortest path connecting them (remember you can find the degrees of separation here: \url{http://beta.degreesofwikipedia.com/}.  However, there are a few rules: you can't use the pages of asteroids; you can't use any of the paths that are already listed on the web; and you can't use brute force trial and error\footnote{Brute force trial and error would involve just trying lots and lots of different random pages.} (or you might crash the website).  
+
+\begin{parts}
+\part[5] What is the longest path you found?
+\vspace{2in}
+
+\part[10] What was the process you went through to find this pair?  What strategy did you use to find this pair?  
+\vspace{4in}
+
+
+\end{parts}
+
+
+\end{questions}
+
+
+\begin{table}[!htbp]
+\centering
+\begin{tabular}{l|c|c}
+Pair & \# of links in your path & \# of links in shortest path\\
+\midrule
+Princeton University $\rightarrow$ Kevin Bacon & &  \\
+Kevin Bacon $\rightarrow$ Princeton University & & \\
+Princeton University $\rightarrow$ Henry VIII of England & & \\ 
+Henry VIII of England $\rightarrow$ Princeton University & & \\
+Princeton University $\rightarrow$ Carnegie Hall & & \\
+Carnegie Hall $\rightarrow$ Princeton University & & \\
+Princeton University $\rightarrow$ White House & & \\
+White House $\rightarrow$ Princeton University & & \\
+Princeton University $\rightarrow$ Australia & & \\
+Australia $\rightarrow$ Princeton University & & \\
+Gretna, Nebraska $\rightarrow$ Princeton University & & \\
+Princeton University $\rightarrow$ Gretna, Nebraska  & & \\
+\bottomrule
+\end{tabular}
+\label{tab:results}
+\caption{Table to store your data.}
+\end{table}
+
+
+
+\end{document}  

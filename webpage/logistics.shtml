@@ -9,12 +9,33 @@
 
   <div class="container">
 
-    <h3 id="time">Time and location</h3>
+    <h3 id="time">Lecture time and location</h3>
     <ul>
       <li>Monday 10:00am - 10:50am (McDonnell A02)</li>
       <li>Wednesday 10:00am - 10:50am (McDonnell A02)</li>
       <li>List of precept times and locations, link coming soon</li>
     </ul>
+
+    <h3 id="time">Precept time and location</h3>
+    <p>Here are the times; locations coming soon.</p>
+    <ul>
+      <li>W: 2:30pm - 3:20pm</li>
+      <li>W: 2:30pm - 3:20pm</li>
+      <li>W: 3:30pm - 4:20pm</li>
+      <li>Th: 9:00am - 9:50am</li>
+      <li>Th: 9:00am - 9:50am</li>
+      <li>Th: 10:00am - 10:50am</li>
+      <li>Th: 10:00am - 10:50am</li>
+      <li>Th: 12:30pm - 1:20pm</li>
+      <li>Th: 12:30pm - 1:20pm</li>
+      <li>Th: 1:30pm - 2:20pm</li>
+      <li>Th: 1:30pm - 2:20pm</li>
+      <li>Th: 3:30pm - 4:20pm</li>
+      <li>Th: 3:30pm - 4:20pm</li>
+      <li>Th: 7:30pm - 8:20pm</li>
+      <li>F: 9:00am - 9:50am</li>
+      <li>F: 10:00am - 10:50am</li>
+   </ul>
 
     <h3 id="oh">Office hours</h3>
     <p>Office location and office hours will be posted on Blackboard.</p>
