@@ -13,32 +13,23 @@
     <ul>
       <li>Monday 10:00am - 10:50am (McDonnell A02)</li>
       <li>Wednesday 10:00am - 10:50am (McDonnell A02)</li>
-      <li>List of precept times and locations, link coming soon</li>
     </ul>
 
     <h3 id="time">Precept time and location</h3>
-    <p>Here are the times; locations coming soon.</p>
-    <ul>
-      <li>W: 2:30pm - 3:20pm</li>
-      <li>W: 2:30pm - 3:20pm</li>
-      <li>W: 3:30pm - 4:20pm</li>
-      <li>Th: 9:00am - 9:50am</li>
-      <li>Th: 9:00am - 9:50am</li>
-      <li>Th: 10:00am - 10:50am</li>
-      <li>Th: 10:00am - 10:50am</li>
-      <li>Th: 12:30pm - 1:20pm</li>
-      <li>Th: 12:30pm - 1:20pm</li>
-      <li>Th: 1:30pm - 2:20pm</li>
-      <li>Th: 1:30pm - 2:20pm</li>
-      <li>Th: 3:30pm - 4:20pm</li>
-      <li>Th: 3:30pm - 4:20pm</li>
-      <li>Th: 7:30pm - 8:20pm</li>
-      <li>F: 9:00am - 9:50am</li>
-      <li>F: 10:00am - 10:50am</li>
-   </ul>
+    <p>The Registrar has a list of <a href="https://registrar.princeton.edu/course-offerings/course_details.xml?courseid=010457&term=1174">precept times and locations</a>.
 
     <h3 id="oh">Office hours</h3>
-    <p>Office location and office hours will be posted on Blackboard.</p>
+    <p>You are welcome to come to office hours to discuss the course.  You don't need to make an appointment;  just stop by.  If you cannot come during office hours because of a scheduling conflict, please email the person that you would like to meet to set up another time.</p>
+      <ul>
+        <li>Matthew Salganik, W 3:30 - 4:30, 145 Wallace Hall</li>
+        <li>Samuel Clovis, Th 11:30 - 12:30, Location TBD</li>
+        <li>Romain Ferrali, M 1:30 - 2:30, 208 Fisher Hall</li>
+        <li>Herrissa Lamothe, Th 2:30 - 3:30, Location TBD</li>
+        <li>Ryan Parsons, Th 10:00 - 12:30, Location TBD</li>
+        <li>Sarah Reibstein, Th 1:00 - 2:00, 110 Wallace Hall</li>
+        <li>Ramina Sotoudeh, Th 6:00 - 7:00, Location TBD</li>
+        <li>Janet Xu, Th 4:30 - 5:30, Location TBD</li>
+      </ul>
 
     <h3 id="prereqs">Prerequisites</h3>
     <p>There are no prerequisites for this course.</p>
@@ -46,7 +37,7 @@
     <h3 id="texts">Required text</h3>
     <p>For the first half of the class, we will be reading the book <a href="http://www.amazon.com/Six-Degrees-Science-Connected-Market/dp/0393325423/">Six Degrees: The Science of a Connected Age</a>.</p>
 
-    <h2 id="access">Open access</h2>
+    <h3 id="access">Open access</h3>
     <p>I have marked open access materials with a <img src="images/open.png" height="12"> and closed access materials with a <img src="images/closed.png" height="12">.  If you do not have access to a university library, copies of many of the closed access articles can be found through <a href="http://scholar.google.com">Google Scholar</a>.</p>
 
     <h3 id="collaboration">Collaboration policy</h3>
@@ -72,8 +63,8 @@
     <h3 id="certificates">Certificates</h3>
        <p>This course counts towards the requirements for the <a href="https://citp.princeton.edu/teaching/certificate/">Certificate in Information Technology and Society</a>.</p>
 
-    <h3 id="late-assignments">Late assignment policy</h3>
-    <p>We must receive your assignment by 10am on Wednesday, and we are developing a late assignment policy.</p>
+       <h3 id="late">Late assignment policy</h3>
+       <p>Your assignments are due by 10am on Wednesday.  If you do not turn in your assignment on time, you can still turn it in before your precept for a reduced grade (20% penalty). After your precept, you will not be able to submit your assignment for a grade unless you have a letter from the Dean of your college.  The reason for this policy is that the assignments are important for your precepts, and assignments completed after your precept have much less educational value.</p>
 
     <h3 id="regrade">Regrade policy</h3>
        <p>If you dispute the grade you received for an assignment or exam, you must submit, in writing, a detailed and clearly stated argument for what you believe is incorrect and why. This must be submitted to Professor Salganik no later than the beginning of class one week after the assignment was returned. For example, if the assignment were returned to the class on Wednesday, your re-grade request would have to be submitted before the start of class on the next Wednesday. Requests for a re-grade after this time will not be accepted.</p>
