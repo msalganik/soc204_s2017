@@ -46,7 +46,7 @@
             <li>In-class midterm exam: 25%</li>
             <p>The midterm exam will take place on Wednesday March 11, 2015 during the regular class time. If you have a conflict during this time, please read the <a href="http://www.princeton.edu/~mjs3/exam_conflict.shtml">change of exam time request policy</a>.</p>
             <li>In-class final exam: 45%</li>
-            <p>The in-class final exam will cover the material from the entire semester. The exam time and location will be set by the registrar. If you need to reschedule the final exam time, please follow the <a href="http://registrar.princeton.edu/final-exams/policy/">standard university rescheduling policies for final exams</a>.</p>
+            <p>The in-class final exam will cover the material from the entire semester. The exam will be Friday, May 19th, 1:30pm - 4:30pm in 50 McCosh Hall<del>A02 James S McDonnell Hall</del>. This time was set by the <a href="https://registrar.princeton.edu/final-exams/schedule/">registrar</a>. If you need to reschedule the final exam time, please follow the <a href="http://registrar.princeton.edu/final-exams/policy/">standard university rescheduling policies for final exams</a>.</p>
             <li>Homework/Precept: 30%</li>
             <p>There will be weekly assignments that will help you reinforce and extend the ideas from the reading and lectures. The assigns will involve things like replicating the studies that we read about or writing newspaper-style editorial articles.
             </p>
@@ -460,6 +460,7 @@
         <ul>
           <li>Pariser, E. (2011). <a href="https://www.ted.com/talks/eli_pariser_beware_online_filter_bubbles">Beware online 'filter bubbles'.</a> <i>TED talk</i>. <a href="#access" class="oa"></a></li>
           <li>Weisberg, J. (2011). <a href="http://www.slate.com/articles/news_and_politics/the_big_idea/2011/06/bubble_trouble.html">Bubble Trouble: Is Web personalization turning us into solipsistic twits.</a> <i>Slate</i>. <a href="#access" class="oa"></a></li>
+          <!--next time add Lazer, D. (2015) <a href="http://dx.doi.org/10.1126/science.aab1422">The rise of the social algorithm</a> <i>Science</i>-->
           <li>Bakshy, E., Messing, S., and Adamic, L.A. (2015) <a href="http://dx.doi.org/10.1126/science.aaa1160">Exposure to ideologically diverse news and opinion on Facebook.</a>  <i>Science</i>. <a href="#access" class="ca"></a></li>
           <li>Sandvig, C. (2015) <a href="https://socialmediacollective.org/2015/05/07/the-facebook-its-not-our-fault-study/">The Facebook 'it’s not our fault' study.</a> <i>Social Media Collective Research Blog</i>. <a href="#access" class="oa"></a></li>
         </ul>
@@ -470,6 +471,7 @@
         <ul>
           <li>Explore <a href="http://graphics.wsj.com/blue-feed-red-feed/">Blue Feed, Red Feed</a>, <A href="https://flipfeed.media.mit.edu/">FlipFeed</a>, and/or <a href="https://www.escapeyourbubble.com/">Escape Your Bubble</a>.</li>
           <li>Eslami, et al. (2015) <a href="https://doi.org/10.1145/2702123.2702556">"I always assumed that I wasn't really that close to [her]:" Reasoning about invisible algorithms in the news feed</a>. Proceedings of the 33rd Annual SIGCHI Conference on Human Factors in Computing Systems, Association for Computing Machinery (ACM): 153-162. (and summary <a href="https://www.youtube.com/watch?v=XQRJI5BcLMM">video</a>). <a href="#access" class="ca"></a></li>
+          <!--next time replace Eslami et al (2015) with Eslami et al. (2016) <a href="http://dx.doi.org/10.1145/2858036.2858494">First I "like" it, then I hide it: Folk Theories of Social Feeds</a> -->
           <li>Constine, J. (2016) <a href="https://techcrunch.com/2016/09/06/ultimate-guide-to-the-news-feed/">How Facebook News Feed Works</a>. <a href="#access" class="oa"></a></li>
           <li>Roberts, S. (2001) <a href="http://dx.doi.org/10.1080/09332480.2001.10542259">Surprises from self-experimentation: sleep, mood, and weight.</a> <i>Chance</i> 14(2): 7-14. <a href="#access" class="ca"></a></li>
           <li>Rubin, D.B. (2001) <a href="http://dx.doi.org/10.1080/09332480.2001.10542261">Comment: self-experimentation for causal effects.</a> <i>Chance</i>. 14(2): 16-17. <a href="#access" class="ca"></a></li>
@@ -492,6 +494,9 @@
             <li>McPherson, M., Smith-Lovin, L., and Brashears, M.E. (2006). <a href="http://www.jstor.org/stable/30038995">Social isolation in America: Changes in core discussion networks over two decades.</a> <i>American Sociological Review</i>, 71(3):353-375.
                 <a href="#access" class="ca"></a>
             </li>
+            <!--next time add Fischer, C (2009) <a href="http://dx.doi.org/10.1177/000312240907400408">The 2004 GSS Finding of Shrunken Social Networks: An Artifact?
+</a> <i>American Sociological Review</i>-->
+
         </ul>
 
 
@@ -515,6 +520,7 @@
             <li>Bernard, H.R. et al. (2010). <a href="http://dx.doi.org/10.1136/sti.2010.044446">Counting hard-to-count populations: The network scale-up method for public health.</a> <i>Sexually Transmitted Infections</i>, 86:ii11-ii15.
                 <a href="#access" class="oa"></a>
             </li>
+            <!--next time assign Feehan and Salganik (2016) instead of Bernard et al (2010)</i>-->
             <li>Feehan et al. (2016). <a href="https://doi.org/10.1093/aje/kwv287">Quality vs. Quantity: A survey experiment to improve the network scale-up method.</a>  <i>American Journal of Epidemiology</i> 183(8): 747-757. <a href="#access" class="oa"></a></li>
         </ul>
 
@@ -535,7 +541,7 @@
           <li>Nickerson, D.W. (2008). <a href="http://dx.doi.org/10.1017/S0003055408080039">Is voting contagious? Evidence from two field experiments.</a> <i>American Political Science Review</i>, 102(1):49-57.
               <a href="#access" class="ca"></a>
           </li>
-          <li>LaCour, M.J. and Green, D.P. (2014). <a href="">When contact changes minds: An experiment on transmission of support for gay equality</a> <i>Science</i>,  346(6215):1366-1369.</li>
+          <li>LaCour, M.J. and Green, D.P. (2014). <a href="http://dx.doi.org/10.1126/science.1256151">When contact changes minds: An experiment on transmission of support for gay equality.</a> <i>Science</i>,  346(6215):1366-1369.</li>
               <a href="#access" class="ca"></a>
           </li>
           <li>Kramer, A.D.I. et al. (2014). <a href="http://dx.doi.org/10.1073/pnas.1320040111">Experimental evidence of massive-scale emotional contagion through social networks.</a> <i>Proceedings of the National Academy of Sciences</i>.
@@ -548,11 +554,11 @@
           <li>Goel, S. et al (2015). <a href="http://dx.doi.org/10.1287/mnsc.2015.2158">The structural virality of online diffusion.</a> <i>Management Science</i>.
               <a href="#access" class="ca"></a>
           </li>
-          <li>Facebook Data Science (2014) <a href="https://www.facebook.com/notes/facebook-data-science/can-cascades-be-predicted/10152056491448859">Can cascades be predicted?</a>.
+          <li>Facebook Data Science (2014) <a href="https://www.facebook.com/notes/facebook-data-science/can-cascades-be-predicted/10152056491448859">Can cascades be predicted?</a>
               <a href="#access" class="oa"></a>
           </li>
-          <li>Cheng et al. (2014) <a href="https://research.facebook.com/publications/680551081983090/can-cascades-be-predicted-/">Can cascades be predicted?</a>. <i>WWW</i>.
-              <a href="#access" class="oa"></a>
+          <li>Cheng et al. (2014) <a href="http://dx.doi.org/10.1145/2566486.2567997">Can cascades be predicted?</a> <i>WWW</i>.
+              <a href="#access" class="ca"></a>
           </li>
         </ul>
 
@@ -565,7 +571,14 @@
         </ul>
 
         <h3 id="24"><!--#echo var="24" --></h3>
-        <p>You get to decide the topic for our last meeting.</p>
+        <p>You have selected the topic for our final meeting: online dating.</p>
+        <ul>
+          <li>Ansari, A. and Klinenberg, E. (2015). <a href="https://www.nytimes.com/2015/06/14/opinion/sunday/how-to-make-online-dating-work.html">How to Make Online Dating Work</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Kercher, S. (2017). <a href="https://www.nytimes.com/2017/04/19/style/tinder-relationship-dating-study.html">First Comes Tinder. Then Comes Marriage?</a> <i>New York Times</i>. <a href="#access" class="oa"></a></li>
+          <li>Tinder's: <a href="https://www.moderndatingmyths.com/">Modern dating myths</a>. <a href="#access" class="oa"></a></li>
+          <li>Andreson et al. (2014) <a href="https://www.sociologicalscience.com/political-ideology-racial-preference-online-dating/">
+Political Ideology and Racial Preferences in Online Dating</a> <i>Sociological Science</i> with <a href="https://sociologicalscience.com/download/volume-2/january/comment-rejoinder/SocSci_v2_20to31.pdf">comment</a> and <a href="https://sociologicalscience.com/download/volume-2/january/comment-rejoinder/SocSci_v2_32to35.pdf">rejoinder</a>. <a href="#access" class="oa"></a></li>
+        </ul>
 
         <hr>
 
