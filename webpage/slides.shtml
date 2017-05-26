@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!--#include file="header.html"-->
+
+<body>
+
+  <!--#include file="navbar.html"-->
+
+  <div class="container">
+
+  <h2>Slides</h2>
+
+  All the slides that were used in class are available from <a href="https://github.com/msalganik/soc204_s2017/tree/master/slides">github</a>.
+
+  <br />
+  <br />
+  <br />
+  <br />
+
+  <!--#include file="footer.html"-->
+
+  </div> <!-- /.container -->
+
+
+
+</body>
+
+</html>
